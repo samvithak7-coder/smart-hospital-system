@@ -1,9 +1,5 @@
-torch>=2.0
-torchvision
-opencv-python
+flask
+groq
+gunicorn
 numpy
-matplotlib
-albumentations
-scikit-learn
-tqdm
-scikit-image
+pillow
